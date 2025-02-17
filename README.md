@@ -15,12 +15,3 @@ Transitioned to IT from customer support. Started learning Swift and iOS develop
 ### Socials  
 
 <p align="left"> <a href="http://www.instagram.com/siyatut" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/anastasiia-tiutinova" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/siyatut"><img src="https://github-readme-stats.vercel.app/api?username=siyatut&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&show_icons=true" alt="siyatut's GitHub stats" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/siyatut/bebrave" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=siyatut&repo=bebrave&title_color=3382ed&text_color=000000&icon_color=f97316&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
