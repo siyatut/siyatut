@@ -6,6 +6,7 @@ Transitioned to IT from customer support. Started learning Swift and iOS develop
 
 ### 💡 Tech stack & experience:
 
+* **Programming language**: Swift
 * **Architectures**: VIPER, MVVM
 * **Data persistence**: Core Data, UserDefaults
 * **Concurrency**: GCD (Grand Central Dispatch)
