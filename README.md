@@ -2,7 +2,21 @@ Hi 🍃 My name is Anastasiia Tiutinova
 =====================================
 iOS developer
 -------------
-Transitioned to IT from customer support. Started learning Swift and iOS development with mentors in January 2023. Experienced with UIKit (Storyboard and code) and a bit of SwiftUI. Familiar with Git/GitHub, completed a Git course by Yandex.Practicum. I prefer learning from books, documentation, and articles. Passionate about growth and exploring new technologies.  
+Transitioned to IT from customer support. Started learning Swift and iOS development with mentors in January 2023. Experienced with UIKit (Storyboard and code) and have briefly worked with SwiftUI. Familiar with Git/GitHub (completed a Git course by Yandex.Practicum). I prefer learning from books, documentation, and articles. Passionate about growth and exploring new technologies.
+
+### 💡 Tech stack & experience:
+
+* **Architectures**: VIPER, MVVM
+* **Data persistence**: Core Data, UserDefaults
+* **Concurrency**: GCD (Grand Central Dispatch)
+* **Reactive programming**: Combine
+* **UI & animations**: UIKit (including UICollectionViewCompositionalLayout, custom cells, smooth UI interactions), limited experience with SwiftUI
+* **Unit testing**: XCTest
+* **Version control**: Git/GitHub
+
+I've worked on apps that include task management with local/remote data synchronization and habit tracking with interactive UI and analytics. 
+Constantly improving and open to new challenges! 🚀
+
 * 🌍  I'm based in Nizhny Novgorod
 * ✉️  You can contact me at [anastasiya.tyutinova@gmail.com](mailto:anastasiya.tyutinova@gmail.com)
 * 🚀  I'm currently working on [a personal project](http://github.com/siyatut/bebrave)
