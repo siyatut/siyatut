@@ -10,7 +10,8 @@ Transitioned to IT from customer support. Started learning Swift and iOS develop
 * **Data persistence**: Core Data, UserDefaults
 * **Concurrency**: GCD (Grand Central Dispatch)
 * **Reactive programming**: Combine
-* **UI & animations**: UIKit (including UICollectionViewCompositionalLayout, custom cells, smooth UI interactions), limited experience with SwiftUI
+* **UI & animations**: UIKit (including UICollectionView, UICollectionViewCompositionalLayout, UITableView,  
+  custom cells, and smooth UI interactions), with limited experience in SwiftUI.
 * **Unit testing**: XCTest
 * **Version control**: Git/GitHub
 
