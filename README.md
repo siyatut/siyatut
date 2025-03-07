@@ -14,6 +14,7 @@ Transitioned to IT from customer support. Started learning Swift and iOS develop
 * **UI & animations**: UIKit (including UICollectionView, UICollectionViewCompositionalLayout, UITableView,  
   custom cells, and smooth UI interactions), with limited experience in SwiftUI.
 * **Unit testing**: XCTest
+* **Static analysis**: SwiftLint
 * **Version control**: Git/GitHub
 
 I've worked on apps that include task management with local/remote data synchronization and habit tracking with interactive UI and analytics. 
