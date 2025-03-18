@@ -23,7 +23,6 @@ Constantly improving and open to new challenges! 🚀
 * 🌍  I'm based in Nizhny Novgorod
 * ✉️  You can contact me at [anastasiya.tyutinova@gmail.com](mailto:anastasiya.tyutinova@gmail.com)
 * 🚀  I'm currently working on [a personal project](http://github.com/siyatut/bebrave)
-* ⚡  I drink a liter of coffee before breakfast. I guess I'm a real caffeine ninja!
 
 ### Skills  
 
