@@ -2,7 +2,6 @@ Hi 🍃 My name is Anastasiia Tiutinova
 =====================================
 iOS developer
 -------------
-Transitioned to IT from customer support. Started learning Swift and iOS development with mentors in January 2023. I prefer learning from books, documentation, and articles. Passionate about growth and exploring new technologies.
 
 ### 💡 Tech stack & experience:
 
