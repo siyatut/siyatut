@@ -6,7 +6,7 @@ iOS developer
 ### 💡 Tech stack & experience:
 
 * **Programming language**: Swift
-* **Architectures**: VIPER, MVVM
+* **Architectures**: VIPER, MVVM, MVP
 * **Data persistence**: Core Data
 * **Concurrency**: GCD (Grand Central Dispatch)
 * **Reactive programming**: Combine
