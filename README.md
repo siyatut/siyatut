@@ -7,7 +7,7 @@ iOS developer
 
 * **Programming language**: Swift
 * **Architectures**: VIPER, MVVM, MVP
-* * **UI**: UIKit, SwiftUI
+* **UI**: UIKit, SwiftUI
 * **Data persistence**: Core Data
 * **Concurrency**: GCD (Grand Central Dispatch)
 * **Reactive programming**: Combine
