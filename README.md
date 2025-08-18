@@ -10,8 +10,8 @@ iOS developer
 * **Data persistence**: Core Data
 * **Concurrency**: GCD (Grand Central Dispatch)
 * **Reactive programming**: Combine
-* **UI & animations**: UIKit (including UICollectionView, UICollectionViewCompositionalLayout, UITableView,  
-  custom cells, and smooth UI interactions), with limited experience in SwiftUI.
+* **UI & animations**: UIKit, SwiftUI (including UICollectionView, UICollectionViewCompositionalLayout, UITableView,  
+  custom cells, and smooth UI interactions).
 * **Unit testing**: XCTest
 * **Static analysis**: SwiftLint
 * **Version control**: Git/GitHub
