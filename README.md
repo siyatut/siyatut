@@ -6,8 +6,7 @@
 
 ### 💡 About me  
 I’m passionate about building clean, scalable, and user-friendly mobile applications.  
-For the past **2.5 years**, I’ve been fully immersed in **Swift**, constantly improving my skills and exploring best practices in iOS development.  
-I enjoy working with different architectures, writing maintainable code, and learning new tools that make apps better and faster.  
+For the past **2.5 years**, I’ve been fully immersed in **Swift**, constantly improving my skills and exploring best practices in iOS development. I enjoy working with different architectures, writing maintainable code, and learning new tools that make apps better and faster.  
 
 ---
 
