@@ -13,7 +13,7 @@ I’m passionate about building clean, scalable, and user-friendly mobile applic
 
 - **Programming language**: Swift  
 - **Architectures**: VIPER, MVVM, MVP  
-- **UI frameworks**: UIKit, SwiftUI  
+- **UI frameworks**: UIKit, SwiftUI, AVFoundation
 - **Data persistence**: Core Data  
 - **Concurrency**: GCD (Grand Central Dispatch)  
 - **Reactive programming**: Combine  
