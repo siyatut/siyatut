@@ -1,31 +1,37 @@
-# Hi there 🍃 I'm Anastasiia  
+# Hi, I’m Anastasiia 🍃
 
-**iOS Developer | Swift • UIKit • SwiftUI • Flutter**  
-
----
-
-### 💡 About me  
-
-I build mobile apps with a focus on clarity, speed, and care for the user. My core stack is Swift, and I love turning messy ideas into clean, maintainable features. I’m into thoughtful architecture, neat UI, and the little performance wins that make apps feel effortless. Lately I’m also diving into Flutter to broaden my cross-platform skill set.
+**Mobile Developer | iOS (Swift) • Flutter**
 
 ---
 
-### 🛠 Tech stack & experience  
+### 💡 About me
 
-- **Programming language**: Swift, Flutter (Dart)  
-- **Architectures**: VIPER, MVVM, MVP, MVC
-- **UI frameworks**: UIKit, SwiftUI, AVFoundation
-- **Data persistence**: Core Data  
-- **Concurrency**: GCD (Grand Central Dispatch)  
-- **Reactive programming**: Combine  
-- **Unit testing**: XCTest, XCUITest  
-- **Static analysis**: SwiftLint  
+I’m a mobile developer with a strong iOS background, focused on building clear, maintainable, and user-friendly applications.
+
+My core expertise is Swift, where I enjoy turning complex requirements into simple, well-structured solutions. I care deeply about code readability, thoughtful architecture, and UI details that make apps feel calm and effortless rather than busy or fragile.
+
+Recently, I’ve been expanding into Flutter to bring the same engineering mindset to cross-platform development — learning the framework through real-world projects rather than demos or tutorials.
+
+---
+
+### 🛠 Tech stack & experience
+
+- **Languages**: Swift, Dart  
+- **Mobile platforms**: iOS, cross-platform (Flutter)
+- **Architectures**: MVVM, VIPER, MVC, MVP  
+- **UI**: UIKit, SwiftUI, Flutter Widgets  
+- **Media**: AVFoundation  
+- **Persistence**: Core Data  
+- **Concurrency**: GCD, async workflows  
+- **Reactive**: Combine  
+- **Testing**: XCTest, XCUITest  
+- **Code quality**: SwiftLint  
 - **Version control**: Git / GitHub  
 
 ---
 
-### 🌱 Currently  
-- Actively learning **Flutter (Dart)** by building a real app for my parents’ store — from architecture to UI and integrations  
-- Translating my iOS experience into cross-platform development: clean state management, reusable widgets, smooth UX flows  
-- Continuing to grow in **SwiftUI + UIKit**, keeping iOS skills sharp alongside Flutter  
----
+### 🌱 Currently
+
+- Building a production-oriented Flutter app for a real local business, focusing on clean screen decomposition, reusable widgets, and incremental refactoring
+- Applying iOS architectural experience to Flutter: pragmatic state handling, readable UI code, and maintainability over abstraction
+- Continuing to deepen expertise in **SwiftUI and UIKit**, keeping iOS skills sharp alongside cross-platform development
